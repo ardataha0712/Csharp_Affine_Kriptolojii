@@ -1,0 +1,18 @@
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\bin\Debug\Affine Kriptoloji.exe.config
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\bin\Debug\Affine Kriptoloji.exe
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\bin\Debug\Affine Kriptoloji.pdb
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine Kriptoloji.csproj.AssemblyReference.cache
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine Kriptoloji.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine_Kriptoloji.Form1.resources
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine_Kriptoloji.Properties.Resources.resources
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine Kriptoloji.csproj.GenerateResource.cache
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine Kriptoloji.csproj.CoreCompileInputs.cache
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine Kriptoloji.exe
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine Kriptoloji.pdb
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine_Kriptoloji.Form2.resources
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine_Kriptoloji.Form3.resources
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine_Kriptoloji.Form4.resources
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\bin\Debug\Affine Kriptoloji.exe.manifest
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\bin\Debug\Affine Kriptoloji.application
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine Kriptoloji.exe.manifest
+C:\Users\bakka\source\repos\Affine Kriptoloji\Affine Kriptoloji\obj\Debug\Affine Kriptoloji.application
